@@ -1,0 +1,23 @@
+{
+  "name": "starterpack-ishanvprasad",
+  "version": "1.0.0",
+  "description": "CS52 SA2",
+  "homepage": "https://github.com/dartmouth-cs52-25w/starterpack-ishanvprasad#readme",
+  "bugs": {
+    "url": "https://github.com/dartmouth-cs52-25w/starterpack-ishanvprasad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dartmouth-cs52-25w/starterpack-ishanvprasad.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
