@@ -1,8 +1,9 @@
-import React, { useParams } from 'react';
+import React from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   BrowserRouter, Routes, Route, NavLink,
 } from 'react-router';
+import { useParams } from 'react-router-dom';
 import './style.scss';
 
 function About(props) {
