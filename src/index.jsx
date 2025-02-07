@@ -5,13 +5,22 @@ import {
 } from 'react-router';
 import { useParams } from 'react-router-dom';
 import './style.scss';
+import Controls from './components/controls';
+import Counter from './components/counter';
 
 function About(props) {
   return <div> All there is to know about me </div>;
 }
 
 function Welcome(props) {
-  return <div>Welcome</div>;
+  return (
+    <div>
+      <Controls />
+      <Counter />
+      <div>Welcome</div>
+    </div>
+
+  );
 }
 
 function Test(props) {
