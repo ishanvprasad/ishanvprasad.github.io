@@ -49,7 +49,7 @@ export default function Hero() {
             variants={itemVariants}
             className="text-lg text-gray-600 max-w-2xl mx-auto mb-8"
           >
-            I enjoy conducting research, learning about the underpinings of machine learning, listening to music, and discussing current events.
+            I enjoy conducting research, learning about the underpinnings of machine learning, listening to music, and discussing current events.
           </motion.p>
 
           <motion.div
