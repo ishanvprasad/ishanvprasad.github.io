@@ -6,7 +6,7 @@ export const photosData = [
     description: 'Big Ben flanked by the Union Jack',
   },
   {
-    src: '/photos/Kings College.jpg',
+    src: '/photos/KingsCollege.jpg',
     title: 'Kings College on the Thames',
     location: 'Cambridge, UK',
     description: 'Taken on the river Cam during a visit back to the UK in 2017.',
@@ -18,7 +18,7 @@ export const photosData = [
     description: 'A view of Westminster Abbey from the river Thames.',
   },
   {
-    src: '/photos/Lincoln Memorial.JPG',
+    src: '/photos/LincolnMemorial.JPG',
     title: 'Lincoln Memorial at Dusk',
     location: 'Washington D.C., USA',
     description: 'The Lincoln Memorial on July 4th, 2024.',
