@@ -38,8 +38,7 @@ export default function Research() {
         >
           <h2 className="text-gray-900">Research Interests</h2>
           <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
-            My work focuses on advancing the frontiers of computer science while
-            drawing insights from historical patterns and methodologies.
+            My current research interests involve machine learning theory. Specifically, I aim to understand the geometry of weight matrices in deep learning models through the lens of random matrix theory. I am also interested in learning more about training dynamics.
           </p>
         </motion.div>
 

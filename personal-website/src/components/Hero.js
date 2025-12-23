@@ -34,7 +34,7 @@ export default function Hero() {
         >
           <motion.div variants={itemVariants}>
             <h1 className="text-gray-900">
-              Hi, I&apos;m <span className="text-blue-600">Your Name</span>
+              <span className="text-blue-600">Ishan Verma Prasad</span>
             </h1>
           </motion.div>
 
@@ -42,16 +42,14 @@ export default function Hero() {
             variants={itemVariants}
             className="text-xl text-gray-600 mb-4"
           >
-            Computer Scientist • History Enthusiast • Music Lover
+            Computers • Music • History
           </motion.p>
 
           <motion.p
             variants={itemVariants}
             className="text-lg text-gray-600 max-w-2xl mx-auto mb-8"
           >
-            I explore the intersection of technology and humanity, finding patterns
-            in both algorithms and historical events, while letting music score the
-            journey.
+            I enjoy conducting research, learning about the underpinings of machine learning, listening to music, and discussing current events.
           </motion.p>
 
           <motion.div

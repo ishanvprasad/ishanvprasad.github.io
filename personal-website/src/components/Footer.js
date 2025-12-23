@@ -58,7 +58,7 @@ export default function Footer() {
           transition={{ delay: 0.4 }}
           className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400"
         >
-          <p>© {currentYear} Your Name. Built with Next.js and ❤️</p>
+          <p>© {currentYear} Ishan Verma Prasad. Built with Next.js and ❤️</p>
         </motion.div>
       </div>
     </footer>
