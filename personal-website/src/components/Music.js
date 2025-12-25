@@ -43,8 +43,8 @@ export default function Music() {
         >
           <h2 className="text-gray-900">My Music</h2>
           <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
-            Music is my companion through late-night coding sessions and historical deep dives.
-            Here are some of my curated playlists.
+            One of my favorite pastimes is listening to music, both digitally and on vinyl. Here are just a few of my
+            favorite Spotify playlists that I have curated over time!
           </p>
         </motion.div>
 

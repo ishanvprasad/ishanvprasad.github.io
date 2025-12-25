@@ -21,7 +21,7 @@ export default function Photos() {
         >
           <h2 className="text-gray-900">Photography</h2>
           <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
-            Capturing moments that tell stories—from ancient architecture to modern landscapes.
+            Some of my favorite photographs my family and I have taken over the years!
           </p>
         </motion.div>
 
