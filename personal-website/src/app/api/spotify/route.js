@@ -9,15 +9,13 @@ const FEATURED_PLAYLIST_IDS = [
   '4pQcH9uMjUlZoC72mIpWbm', // U2
   '48CDPzJdzWI5TtmxzqQdNM', // The Rolling Stones
   '7jkFtyLrxt3Gdw45D1kiIF', // The Beatles
-  '3BOu0635w3MFWs2RqI2lTL', // Prince
   '7fw1c7c5KbLvq1uS4CL36U', // Bob Dylan
+  '3BOu0635w3MFWs2RqI2lTL', // Prince
   '0f274MI3YFPxlYTDIFdW6b', // Dire Straits
   '3aLyJuSOhpKyOKNGnLf10V', // Fleetwood Mac
   '5xRG9325CrH6bcyL8d5ukZ', // Journey
   '7DvSp2bXWVgEcLF29Xps9N', // Eagles
   '3v7e4J3tcvrzCe6mJh3cBh', // Elton John
-
-
 ]
 
 const basic = Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')

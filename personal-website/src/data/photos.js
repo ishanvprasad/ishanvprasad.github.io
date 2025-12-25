@@ -7,7 +7,7 @@ export const photosData = [
   },
   {
     src: '/photos/KingsCollege.jpg',
-    title: 'Kings College on the Thames',
+    title: "King's College",
     location: 'Cambridge, UK',
     description: 'Taken on the river Cam during a visit back to the UK in 2017.',
   },
@@ -27,7 +27,7 @@ export const photosData = [
     src: '/photos/SandCat.JPG',
     title: 'Sand Cat',
     location: 'Woodley Park Zoo, Washington D.C., USA',
-    description: 'Sand Cat at the Woodley Park Zoo in Washington D.C.',
+    description: 'Sand cat at the Woodley Park Zoo in Washington D.C.',
   },
   {
     src: '/photos/SCOTUS.JPG',

@@ -49,10 +49,10 @@ export default function Hero() {
             variants={itemVariants}
             className="text-lg text-gray-600 max-w-2xl mx-auto mb-8"
           >
-            I enjoy conducting research, learning about the underpinnings of machine learning, listening to music, and discussing current events.
+            I enjoy conducting research, exploring the underpinnings of machine learning, listening to music, and discussing current events.
           </motion.p>
 
-          <motion.div
+          {/* <motion.div
             variants={itemVariants}
             className="flex gap-4 justify-center"
           >
@@ -70,7 +70,7 @@ export default function Hero() {
             >
               Contact Me
             </a>
-          </motion.div>
+          </motion.div> */}
         </motion.div>
       </div>
 
