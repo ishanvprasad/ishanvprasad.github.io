@@ -36,7 +36,7 @@ export default function Navigation() {
             className="text-2xl font-bold"
             whileHover={{ scale: 1.05 }}
           >
-            YN
+            IVP
           </motion.a>
           
           <ul className="flex gap-8">
